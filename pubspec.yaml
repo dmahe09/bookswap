@@ -1,0 +1,17 @@
+name: bookswap
+description: A book swapping application for students
+environment:
+  sdk: '^3.9.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^4.2.1
+  firebase_auth: ^6.1.2
+  cloud_firestore: ^6.1.0
+  firebase_storage: ^13.0.4
+  firebase_messaging: ^16.0.4
+  provider: ^6.1.1
+  image_picker: ^1.0.4
+  cached_network_image: ^3.3.0
+  uuid: ^4.2.1
